@@ -1,0 +1,12 @@
+C:\Users\Yağız\source\repos\Şifre Oluşturucu\Şifre Oluşturucu\bin\Debug\Şifre Oluşturucu.exe.config
+C:\Users\Yağız\source\repos\Şifre Oluşturucu\Şifre Oluşturucu\bin\Debug\Şifre Oluşturucu.exe
+C:\Users\Yağız\source\repos\Şifre Oluşturucu\Şifre Oluşturucu\bin\Debug\Şifre Oluşturucu.pdb
+C:\Users\Yağız\source\repos\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre Oluşturucu.csproj.AssemblyReference.cache
+C:\Users\Yağız\source\repos\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre_Oluşturucu.Form1.resources
+C:\Users\Yağız\source\repos\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre_Oluşturucu.Form2.resources
+C:\Users\Yağız\source\repos\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre_Oluşturucu.Form3.resources
+C:\Users\Yağız\source\repos\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre_Oluşturucu.Properties.Resources.resources
+C:\Users\Yağız\source\repos\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre Oluşturucu.csproj.GenerateResource.cache
+C:\Users\Yağız\source\repos\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre Oluşturucu.csproj.CoreCompileInputs.cache
+C:\Users\Yağız\source\repos\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre Oluşturucu.exe
+C:\Users\Yağız\source\repos\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre Oluşturucu.pdb
